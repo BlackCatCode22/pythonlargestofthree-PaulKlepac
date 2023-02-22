@@ -18,3 +18,5 @@ This program first takes three integers as input from the user using the input()
 To calculate the largest of the three integers, the program first assumes that the first integer (num1) is the largest. It then compares num1 to the second integer (num2) and if num2 is larger, it sets largest to num2. It then compares largest to the third integer (num3) and if num3 is larger, it sets largest to num3.
 
 Finally, the program prints out the largest and the total of the three integers using the print() function.
+
+Hello from Paul.
